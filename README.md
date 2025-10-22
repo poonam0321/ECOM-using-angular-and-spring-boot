@@ -33,8 +33,7 @@ e-commerce-fullstack_springboot_angular_aws/
 
 🚀 Setup & Installation
 1️⃣ Clone the Repository
-git clone https://github.com/dinesh-more/e-commerce-fullstack_springboot_angular_aws.git
-cd e-commerce-fullstack_springboot_angular_aws
+git clone https://github.com/poonam0321/e-com-using-angular-and-spring-boot.git
 
 2️⃣ Backend Setup
 cd e-commerce-backend

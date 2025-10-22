@@ -124,7 +124,5 @@ ng serve
 
 * 💳 Integrate Payment Gateway (**Razorpay / Stripe**)
 * 🧠 Add **AI-based Product Recommendations**
-* 🛒 Implement **Inventory Management System**
-* 📦 Add **Order Tracking & Notifications**
 
 ---
